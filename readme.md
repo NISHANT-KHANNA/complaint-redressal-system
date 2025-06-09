@@ -1,7 +1,7 @@
 # 🛠️ Complaint Redressal System
 
 > A web-based solution to streamline the lodging, tracking, and resolution of hostel complaints — ensuring timely redressal and improved facility management.
-![Preview](preview.png)
+![Preview](screenshot/preview.png)
 ---
 
 ## 📌 Overview
